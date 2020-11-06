@@ -4,5 +4,6 @@ def arg():
 
 
 
-def if __name__ == '__main__':
+n = arg()
+print(f'o numero é {n}')
     
